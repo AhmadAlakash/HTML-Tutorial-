@@ -82,7 +82,39 @@ is very easy with value ex  content=' 3  url=http://www.google.com/'  -->
 
 
 </html>
+```--------------------------------------------------------------------------------------------------
+
+- in interview :why we use not the attribute align  	
+
+  because we use the text-align with the CSS 
+
+```html
+
+
+---------------------------------------------------------------------------------
+<body><!--site body what display in the output  -->
+
+    <h1 align="center" >﷽</h1> <!-- h1 to make our latters very bold block -->
+    <hr> <!-- to make line block -->
+    <p>Hello My Name is Ahmad Alakash and i am 29 year old </p><!--to write text block -->
+    <br> <!--line break-->
+    <pre> <!--to write text how i will EX: with space and empty line -->
+
+        ahmad 
+        alakash 
+        29 
+        syria
+
+    </pre>
+    <code></code><!--to display code in output-->
+
+
+
 ```
+
+
+
+
 
 
   
