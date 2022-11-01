@@ -148,12 +148,6 @@ to make line <ins>hadil</ins> when i edit or add text to text
 
 
 
-
-
-
-
-
-
   
 
 
