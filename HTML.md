@@ -114,6 +114,38 @@ is very easy with value ex  content=' 3  url=http://www.google.com/'  -->
 
 
 
+<!-- html text formatting
+that's main that we can this elements in the block element-->
+
+<smal></smal> <!--inline to write small word or text  -->
+<b></b><!-- inline just to bold -->
+<strong></strong><!-- inline for important text or word most user see ex -->
+<i></i> to italic
+<em></em> to italic but important 
+to italic but <mark>important</mark>  to make mark of text 
+to make line <u>ahmad</u> just for line 
+to make line <ins>hadil</ins> when i edit or add text to text 
+<s></s>to make line in word just 
+<del></del> to make line but to say is delete
+<sub></sub> to make word under line 
+<sup></sup> to make word above line 
+
+
+
+
+
+<h1> Makbook</h1>
+<p> price: <b>1300$</b></p>
+<p> we have big sale in our site but<strong> not for this mac sorry</strong> and we have more in our markt</p>
+
+
+   
+
+
+
+
+
+
 
 
 
